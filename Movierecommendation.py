@@ -10,7 +10,7 @@ import os
 
 
 # Load the movies data
-movies_data = pd.read_csv(r'E:\ML Projects\Movie recommendation\movies.csv')
+movies_data = pd.read_csv(r'movies.csv')
 
 # Convert the text data to feature vectors
 vectorizer = TfidfVectorizer()
