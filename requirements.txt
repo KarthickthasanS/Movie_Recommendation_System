@@ -1,9 +1,4 @@
 streamlit
 numpy
 pandas
-difflib
-sklearn.feature_extraction.text
-TfidfVectorizer
-sklearn.metrics.pairwise 
-cosine_similarity
-os
+scikit-learn
